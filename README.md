@@ -1,7 +1,7 @@
 # Neural Style Transfer Project
 
 ## Introduction
-This project implements the Neural Style Transfer (NST) technique using TensorFlow and Keras. NST is a fascinating application of deep learning that merges the content of one image with the style of another. This README provides an overview of the project, instructions for setting it up and running it, and discusses potential future enhancements.
+This project implements the Neural Style Transfer (NST) technique using TensorFlow and Keras using the __VGG-19__ features. NST is a fascinating application of deep learning that merges the content of one image with the style of another. This README provides an overview of the project, instructions for setting it up and running it, and discusses potential future enhancements.
 
 ## Setup and Installation
 To run this project, you need Python 3.x and the following libraries:
@@ -48,6 +48,5 @@ Contributions to the project are welcome! Here's how you can contribute:
 - **Report Issues:** If you find a bug or have a suggestion for improvement, please open an issue.
 - **Submit Pull Requests:** Feel free to fork the repository and submit pull requests with your enhancements.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
